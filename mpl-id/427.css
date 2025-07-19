@@ -1,0 +1,163 @@
+
+#divform427{
+    background-color: rgba(0, 59, 24, 0.591);
+    border: 1px solid black;
+    border-radius: 1%;
+
+}
+h1{
+    padding-top: 1%;
+    padding-bottom: 1.2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-bottom: 1px solid rgb(8, 99, 8);
+}
+#divrow427 {
+    color: white;
+    padding: 5%;
+}
+input{
+    border: none;
+    border-radius: 3px;
+    width: 100%;
+}
+#tombol427{
+    background-color: greenyellow;
+    border-radius: 10px;
+    border: 2px solid green;
+    margin-top: 17.5%;
+    width: 25%;
+    font-size: 17px;
+    padding: 1%;
+}
+#span427{
+    font-size: 14px;
+}
+#divhasilform427{
+    font-size: 18px;
+    background-color: rgba(0, 59, 24, 0.591);
+    border: 1px solid black;
+    border-radius: 1%;
+    color: white;
+    padding: 4%;
+
+}
+#nextbut427{
+    margin-left: 85%;
+    background-color: greenyellow;
+    border-radius: 10px;
+    border: 2px solid green;
+    margin-top: 17.5%;
+    width: 15%;
+    font-size: 17px;
+    padding: 1%;
+}
+body{
+    height: 100vh;
+    background-image: url('img/bg4.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat:repeat;
+}
+#kel3isimicc{
+    padding-top: 1%;
+    background-color: rgba(96, 202, 255, 0.851);
+    position: relative;
+}
+#footer427{
+
+    left: 0px;
+    bottom: 0px;
+    width: 100%; 
+}
+#formplayer427{
+    padding: 3%;
+    margin-top: 1%;
+    background-color: rgba(0, 59, 24, 0.591);
+    border: 1px solid black;
+    border-radius: 1%;
+}
+#bg_cont_login427{
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-top: 5.5%;
+    height: 100%;
+    background-color: rgba(96, 202, 255, 0.851);
+}
+#rowlogin427{
+    padding: 3%;
+    box-shadow: 1px 3px 13px rgba(0,0,0,0.8);
+    border-radius: 10px;
+    background-color: rgba(0, 59, 24, 0.591);
+}
+#bg_cont_login427 form{
+    text-align: left;
+    font-size: 24px;
+    color: white;
+    padding-top: 4%;
+    padding-left: 6.5%;
+    padding-right: 6.5%;
+}
+#bg_cont_login427 form h4{
+    color: greenyellow;
+    margin-bottom: 8%;
+}
+#bg_cont_login427 form button{
+    background-color: greenyellow;
+    border-radius: 10px;
+    border: 2px solid green;
+    color: rgb(0, 33, 0);
+    padding: 2%;
+    padding-left: 6%;
+    padding-right: 6%;
+    float: right;
+}
+#bg_cont_login427 form button:hover{
+    border: 2px solid rgb(0, 255, 0);
+    color: rgb(255, 255, 255);
+    background-color: rgb(40, 158, 0);
+}
+#bg_cont_login427 span{
+    font-size: 30px;
+}
+#imglogin427{
+    color: greenyellow;
+    padding: 2%;
+}
+#imglogin427 h4{
+    margin-bottom: 3%;
+}
+#predirectform{
+    color: #ffffff;
+    font-size: 30px;
+    padding: 20.5%;
+}
+#formloginkanan427 p{
+    margin-top: 7%;
+    color: rgb(255, 204, 0);
+   padding-right:6.6%;
+    font-size: 22px;
+}
+#divsession427{
+    padding-top: 1%;
+    font-size: 25px;
+    background-color: rgba(0, 59, 24, 0.591);
+    border: 1px solid black;
+    border-radius: 1%;
+    margin-bottom: 1%;
+    color: white;
+    width: 81.6%;
+}
+#divsession427 button{
+    background-color: rgb(255, 71, 47);
+    border-radius: 10px;
+    border: 2px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    padding: 1%;
+    width: 10.5%;
+}
+#divsession427 button:hover{
+    border: 2px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background-color: rgb(211, 25, 0);
+}
